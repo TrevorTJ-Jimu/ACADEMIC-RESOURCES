@@ -1,160 +1,50 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,50:1B6CA8,100:F0A500&height=200&section=header&text=Trevor%20Jimu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20%7C%20Mathematician%20%7C%20Educator&descAlignY=58&descSize=18&descColor=E8F4FD&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,50:1B6CA8,100:F0A500&height=220&section=header&text=Academic%20Resources&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20%7C%20Physics%20%7C%20Statistics%20%7C%20Computing&descAlignY=58&descSize=18&descColor=E8F4FD&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-<!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/Email-jimtrevour%40gmail.com-0D2137?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimtrevour@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TrevorTJ--Jimu-1B6CA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrevorTJ-Jimu)
-[![Location](https://img.shields.io/badge/Location-Blantyre%2C%20Malawi-F0A500?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Blantyre,Malawi)
-[![MUST](https://img.shields.io/badge/MUST-Biomedical%20Engineering-0D2137?style=for-the-badge&logo=academia&logoColor=white)](https://www.must.ac.mw)
+[![Author](https://img.shields.io/badge/Author-Trevor%20Jimu-0D2137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrevorTJ-Jimu)
+[![Institution](https://img.shields.io/badge/MUST-Biomedical%20Engineering-1B6CA8?style=for-the-badge&logo=academia&logoColor=white)](https://www.must.ac.mw)
+[![License](https://img.shields.io/badge/License-MIT-F0A500?style=for-the-badge)](LICENSE)
+[![Courses](https://img.shields.io/badge/Courses-16%20Modules-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)]()
 
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+## 👨‍🏫 About This Repository
 
-```python
-trevor = {
-    "name"       : "Trevor Jimu",
-    "degree"     : "BSc Biomedical Engineering — Second Class Upper (MUST, 2025)",
-    "roles"      : ["University Tutor", "Biomedical Engineer", "Researcher", "Educator"],
-    "location"   : "Blantyre, Malawi 🇲🇼",
-    "languages"  : ["Chichewa", "English"],
-    "mission"    : "To become the best professional I can be for the development of myself and my country.",
-    "contact"    : "jimtrevour@gmail.com",
-}
-```
+> Structured, professionally maintained academic resources created by **Trevor Jimu** — BSc Biomedical Engineering (MUST), certified university tutor, and STEM educator based in Blantyre, Malawi.
 
-> *"The purpose of education is to replace an empty mind with an open one."*
-> I teach, build, and research at the intersection of **engineering, mathematics, and data science** — with a firm belief that rigorous STEM education is the foundation of Malawi's future.
+This repository is a living library of **lecture notes, exercises, worked solutions, and reference materials** spanning four core disciplines. Resources are written with clarity and rigour, designed to help university and secondary school students master challenging STEM content.
 
 ---
 
-## 🎓 Education
+## 📂 Repository Structure
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **BSc Biomedical Engineering** | Malawi University of Science & Technology (MUST) |  2019 – 2025 |
-| **MSCE** | Bangwe Day Secondary School | 2018 |
-| **JCE** | Bangwe Day Secondary School | 2016 |
-
----
-
-## 📚 Modules I Tutor
-
-I provide university-level and secondary-level academic support across the following subject areas:
-
-### 🔢 Mathematics
-
-<div align="center">
-
-| Module | Level |
-|--------|-------|
-| Introduction to College Algebra & Trigonometry | Foundation |
-| Calculus I | Undergraduate |
-| Calculus II | Undergraduate |
-| Multivariate Calculus | Undergraduate |
-| Discrete Mathematics | Undergraduate |
-| Business Mathematics | Undergraduate |
-| Differential Equations | Undergraduate |
-| Complex Analysis | Advanced Undergraduate |
-
-</div>
-
-### 📊 Statistics & Data
-
-<div align="center">
-
-| Module | Level |
-|--------|-------|
-| Introduction to Statistics & Probability | Foundation |
-| Inferential Statistics | Undergraduate |
-| Statistical Packages (SPSS, Stata, R) | Undergraduate |
-
-</div>
-
-### ⚡ Physics
-
-<div align="center">
-
-| Module | Level |
-|--------|-------|
-| Physics – Mechanics & Thermal Properties of Matter | Foundation |
-| Physics – Electricity, Magnetism, Waves & Vibrations | Foundation |
-
-</div>
-
-### 💻 Computing & Programming
-
-<div align="center">
-
-| Module | Level |
-|--------|-------|
-| C++ Programming | Undergraduate |
-| Python Programming | Undergraduate |
-
-</div>
+| # | Category | Modules |
+|---|----------|---------|
+| [01](./01_Mathematics/) | 🔢 **Mathematics** | Algebra & Trig · Calculus I & II · Multivariate Calculus · Discrete Maths · Business Maths · Differential Equations · Complex Analysis |
+| [02](./02_Physics/) | ⚛️ **Physics** | Mechanics & Thermal Properties · Electricity, Magnetism, Waves & Vibrations |
+| [03](./03_Statistics/) | 📊 **Statistics** | Intro Statistics & Probability · Inferential Statistics · Statistical Packages |
+| [04](./04_Computing/) | 💻 **Computing** | C++ Programming · Python Programming |
 
 ---
 
-## 🛠️ Technical Stack
+## 📬 Contact
 
-### Data & Statistics
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A4480?style=for-the-badge&logo=stata&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Scientific Writing & Office
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+| Platform | Detail |
+|----------|--------|
+| 📧 Email | [jimtrevour@gmail.com](mailto:jimtrevour@gmail.com) |
+| 📱 Phone | +265 886 185 289 |
+| 🐙 GitHub | [TrevorTJ-Jimu](https://github.com/TrevorTJ-Jimu) |
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A500,50:1B6CA8,100:0D2137&height=100&section=footer" />
 
-<details>
-<summary><strong>🏫 University Tutor — MUST (2023 – Present)</strong></summary>
-<br>
-
-- Officially appointed tutor at Malawi University of Science and Technology
-- Delivers academic support in **Statistics, Physics, Calculus, and Research Methods**
-- Develops supplementary materials and manages regular student consultation sessions
-- Recognised for high student engagement and improvement in academic outcomes
-
-</details>
-
-<details>
-<summary><strong>📐 Secondary School Teacher — SWEMA Private Secondary School (2020 – 2023)</strong></summary>
-<br>
-
-- Taught **Mathematics and Sciences** to secondary school students
-- Designed lesson plans aligned with Malawi national curriculum standards
-- Consistently improved class performance through active and structured teaching
-- Served as a mentor and academic advisor to students preparing for MSCE
-
-</details>
-
-<details>
-<summary><strong>📖 Academic Tutor — Kamba Tutors (2021 – 2022)</strong></summary>
-<br>
-
-- Provided one-on-one and small group tutoring in **STEM subjects**
-- Supported secondary school and college-level students in exam preparation
-- Delivered personalised study programmes tailored to individual learning needs
-
-</details>
+*"Mathematics is the language in which God has written the universe." — Galileo*
+</div>
 
 ---
 
