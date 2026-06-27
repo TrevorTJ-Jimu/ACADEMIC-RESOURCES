@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,50:004482,100:0D2137&height=200&section=header&text=C%2B%2B%20Programming&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Systems%20Programming%20%7C%20OOP%20%7C%20Algorithms&descAlignY=60&descSize=17&descColor=b8d4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:FFD43B,100:306998&height=200&section=header&text=Python%20Programming&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Clean%20Code%20%7C%20Data%20Science%20%7C%20Automation&descAlignY=60&descSize=17&descColor=fffbd0&animation=fadeIn" />
 
-[![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![Standard](https://img.shields.io/badge/Standard-C%2B%2B17-004482?style=for-the-badge)]()
-[![Level](https://img.shields.io/badge/Level-Undergraduate-0D2137?style=for-the-badge)]()
-[![Tutor](https://img.shields.io/badge/Tutor-Trevor%20Jimu-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrevorTJ-Jimu)
+[![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)]()
+[![Level](https://img.shields.io/badge/Level-Undergraduate-306998?style=for-the-badge)]()
+[![Tutor](https://img.shields.io/badge/Tutor-Trevor%20Jimu-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrevorTJ-Jimu)
 
-<img src="https://media.giphy.com/media/ZVik7pIojeM0I9LUGl/giphy.gif" width="300" alt="coding C++"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="python coding"/>
 
-> *"C++ is a language that trusts you completely — and gives you the power to match."*
+> *"Python is not just a programming language — it's the most readable way to turn ideas into running code."*
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## 📌 Module Overview
 
-**C++ Programming** introduces students to one of the most powerful and widely used programming languages in existence. From **systems programming and game engines to embedded systems and scientific computing**, C++ forms the backbone of performance-critical software.
+**Python Programming** introduces one of the world's most popular and versatile languages. Python's clean syntax makes it ideal for beginners, while its rich ecosystem of libraries — **NumPy, Pandas, Matplotlib, SciPy** — makes it the dominant tool in **data science, scientific computing, and automation**.
 
 ---
 
@@ -25,115 +24,114 @@
 
 | Folder | Description |
 |--------|-------------|
-| 📄 `notes/` | Concept notes with annotated code examples |
-| ✏️ `exercises/` | Coding challenges from beginner to advanced |
-| 🚀 `projects/` | Mini projects demonstrating real-world application |
+| 📄 `notes/` | Concept explanations with runnable code |
+| ✏️ `exercises/` | Graded coding problems |
+| 🚀 `projects/` | Applied mini-projects |
 
 ---
 
 ## 🧭 Topics Covered
 
-### Chapter 1 — Foundations
-- [ ] Setting Up: Compilers (GCC, Clang), IDEs (VS Code, Code::Blocks)
-- [ ] Structure of a C++ Program
-- [ ] Variables, Data Types & Constants
-- [ ] Input/Output: `cin`, `cout`
+### Chapter 1 — Python Fundamentals
+- [ ] Installation: Python, pip, VS Code / Jupyter
+- [ ] Variables, Data Types: `int`, `float`, `str`, `bool`
 - [ ] Operators & Expressions
-- [ ] Type Casting
+- [ ] Input & Output: `input()`, `print()`
+- [ ] Type Conversion
 
 ### Chapter 2 — Control Flow
-- [ ] Conditional Statements: `if`, `else if`, `switch`
-- [ ] Loops: `for`, `while`, `do-while`
-- [ ] `break`, `continue`, `goto`
+- [ ] `if`, `elif`, `else`
+- [ ] `for` loops, `while` loops
+- [ ] `break`, `continue`, `pass`
+- [ ] List Comprehensions
 
-### Chapter 3 — Functions
-- [ ] Function Declaration, Definition & Call
-- [ ] Pass by Value vs Pass by Reference
-- [ ] Default Arguments
-- [ ] Function Overloading
+### Chapter 3 — Data Structures
+- [ ] Lists, Tuples, Sets
+- [ ] Dictionaries
+- [ ] Strings & String Methods
+- [ ] Nested Structures
+
+### Chapter 4 — Functions
+- [ ] Defining & Calling Functions
+- [ ] Arguments: Positional, Keyword, Default, *args, **kwargs
+- [ ] Lambda Functions
+- [ ] Scope & Closures
 - [ ] Recursion
 
-### Chapter 4 — Arrays & Strings
-- [ ] 1D and 2D Arrays
-- [ ] C-style Strings vs `std::string`
-- [ ] String Functions
-
-### Chapter 5 — Pointers & Memory
-- [ ] Pointer Basics: Declaration, Dereferencing
-- [ ] Pointer Arithmetic
-- [ ] Dynamic Memory: `new` and `delete`
-- [ ] References vs Pointers
-
-### Chapter 6 — Object-Oriented Programming
+### Chapter 5 — Object-Oriented Python
 - [ ] Classes & Objects
-- [ ] Constructors & Destructors
-- [ ] Access Specifiers: `public`, `private`, `protected`
-- [ ] Encapsulation, Abstraction
+- [ ] `__init__`, Instance Methods
 - [ ] Inheritance & Polymorphism
-- [ ] Virtual Functions & Abstract Classes
-- [ ] Operator Overloading
+- [ ] Magic/Dunder Methods
+- [ ] Encapsulation
 
-### Chapter 7 — STL & Advanced Topics
-- [ ] Standard Template Library: `vector`, `map`, `set`, `stack`, `queue`
-- [ ] Iterators & Algorithms (`sort`, `find`, `binary_search`)
-- [ ] File I/O: `fstream`
-- [ ] Exception Handling: `try`, `catch`, `throw`
-- [ ] Templates: Function & Class Templates
+### Chapter 6 — File Handling & Exceptions
+- [ ] Reading & Writing Files
+- [ ] CSV & JSON handling
+- [ ] `try`, `except`, `finally`
+- [ ] Custom Exceptions
+
+### Chapter 7 — Scientific Computing & Data
+- [ ] **NumPy**: arrays, broadcasting, linear algebra
+- [ ] **Pandas**: DataFrames, cleaning, groupby, merge
+- [ ] **Matplotlib & Seaborn**: plotting and visualisation
+- [ ] **SciPy**: statistical functions and scientific tools
+- [ ] Introduction to **Jupyter Notebooks**
 
 ---
 
-## 💻 Hello World & Sample Code
+## 💻 Sample Code
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-// Function template example
-template <typename T>
-T findMax(vector<T>& arr) {
-    return *max_element(arr.begin(), arr.end());
+# --- Data Analysis Example ---
+data = {
+    'Student': ['Alice', 'Bob', 'Carol', 'David', 'Eve'],
+    'Score':   [85, 92, 78, 96, 88],
+    'Grade':   ['B', 'A', 'C', 'A', 'B']
 }
 
-int main() {
-    cout << "Hello, Trevor Jimu's C++ Resource!" << endl;
+df = pd.DataFrame(data)
+print(df.describe())
 
-    vector<int> scores = {85, 92, 78, 96, 88};
-    cout << "Highest score: " << findMax(scores) << endl;
+# Statistics
+print(f"Mean Score:   {df['Score'].mean():.2f}")
+print(f"Std Dev:      {df['Score'].std():.2f}")
+print(f"Top Student:  {df.loc[df['Score'].idxmax(), 'Student']}")
 
-    // Sort and display
-    sort(scores.begin(), scores.end());
-    cout << "Sorted scores: ";
-    for (int s : scores) cout << s << " ";
-    cout << endl;
-
-    return 0;
-}
+# Visualisation
+df.plot(kind='bar', x='Student', y='Score',
+        color='steelblue', title='Student Scores')
+plt.tight_layout()
+plt.savefig('scores.png')
+plt.show()
 ```
 
 ---
 
 ## 🚀 Mini Projects
 
-| Project | Concepts Covered |
-|---------|-----------------|
-| Student Grade Calculator | Arrays, Functions, Loops |
-| Bank Account System | OOP, Classes, Encapsulation |
-| Matrix Operations | 2D Arrays, Operator Overloading |
-| Linked List Implementation | Pointers, Dynamic Memory |
-| Simple File Database | File I/O, STL |
+| Project | Libraries Used |
+|---------|---------------|
+| Student Report Generator | pandas, openpyxl |
+| Statistical Calculator | numpy, scipy |
+| Grade Distribution Visualiser | matplotlib, seaborn |
+| CSV Data Cleaner | pandas |
+| Simple CLI Quiz App | random, json |
 
 ---
 
 ## 📬 Need Help?
 
-[![Email](https://img.shields.io/badge/Email%20Trevor-jimtrevour%40gmail.com-00599C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimtrevour@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Trevor-jimtrevour%40gmail.com-3776AB?style=for-the-badge&logo=gmail&logoColor=FFD43B)](mailto:jimtrevour@gmail.com)
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,50:004482,100:00599C&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:3776AB,100:306998&height=100&section=footer" />
 
 [![Back](https://img.shields.io/badge/←%20Computing-232526?style=for-the-badge)](../README.md)
 </div>
